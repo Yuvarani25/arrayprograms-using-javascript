@@ -22,8 +22,7 @@ console.log(bike);
 console.log(bike.indexOf("Yamaha"));
 //includes()
 console.log(bike.includes("R15"));
-//find()
-// console.log(bike.find());
+
 
 //3)array filter
 let arr=[10,30,40,20,60,50];
